@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Proyecto Web</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: #f6f8fa;
+      color: #1f2328;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #636c76;
+      margin-bottom: 30px;
+    }
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .btn {
+      display: block;
+      padding: 12px 20px;
+      background-color: #0969da;
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      border-radius: 6px;
+      transition: background-color 0.2s ease;
+    }
+    .btn:hover {
+      background-color: #0451a5;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Página Principal</h1>
+    <p>Selecciona una sección para navegar por el sitio:</p>
+
+    <div class="links">
+      <!-- Reemplaza "carpeta1" y "carpeta2" por los nombres reales de tus carpetas -->
+      <a href="carpeta1/" class="btn">Ver Carpeta 1</a>
+      <a href="carpeta2/" class="btn">Ver Carpeta 2</a>
+    </div>
+  </div>
+
+</body>
+</html>
