@@ -1,8 +1,8 @@
 ** Which are you looking?
 * ¿Cual estas buscando?
 
-[Aire Limpio (Mx)](https://ejemplo.com)
+[Aire Limpio (Mx)](https://vladcreator.github.io/PrivacyPolicy/AireQualityMx)
 
-[VladMx](https://ejemplo.com)
+[VladMx](https://vladcreator.github.io/PrivacyPolicy/VladMx/)
 
-[In Your Moments](https://ejemplo.com)
+[In Your Moments](https://vladcreator.github.io/PrivacyPolicy/)
