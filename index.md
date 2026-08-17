@@ -1,7 +1,7 @@
-** Which are you looking?
+* Which are you looking?
 * ¿Cual estas buscando?
 
-[Aire Limpio (Mx)](https://vladcreator.github.io/PrivacyPolicy/AireQualityMx)
+[Aire Limpio (Mx)](https://vladcreator.github.io/PrivacyPolicy/AirQualityMx)
 
 [VladMx](https://vladcreator.github.io/PrivacyPolicy/VladMx/)
 
